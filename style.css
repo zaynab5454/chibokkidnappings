@@ -1,0 +1,93 @@
+body {
+    max-width: 1000px;
+    float: none;
+    margin: auto;
+
+}
+
+
+
+h2 {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    }
+
+
+
+.initial.2{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 514;
+    width: 900;
+}
+
+.initial.2 img{
+    height: 514;
+    width: 900;
+}
+
+
+body {
+    background-color: antiquewhite
+    ;
+}
+
+p1 {
+margin-top: 0px;
+    font-size: smaller;
+    color:dimgrey;
+    font-style: italic;
+}
+
+p2 {
+    color:dimgray;
+    font-style: italic;
+    font-size: smaller;
+    
+
+}
+
+ 
+
+h1,h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.Abubakar{
+    margin-left: 50px;
+    align-items: center;
+    display:flex;
+    width: 900px;  
+}
+
+.Abubakar img{
+    width: 130px;
+    height: 120px;
+    
+}
+
+h2{
+    margin-bottom: 15px;
+}
+
+.par{
+    margin-left: 50px;
+    align-items: center;
+    width: 900px;  
+    font-family: 'Playfair Display', serif;
+}
+
+.protest img{
+align-self: center;
+height: 514px;
+width:900px;
+}
+
+
+
